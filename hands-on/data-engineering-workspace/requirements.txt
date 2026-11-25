@@ -1,3 +1,10 @@
 pyspark==3.2.4
 apache-beam
 apache-beam[gcp]==2.58.1
+
+google-cloud-pubsub
+
+
+
+apache-airflow==2.11.1
+apache-airflow-providers-google==10.1.0
